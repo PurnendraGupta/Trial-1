@@ -5,3 +5,5 @@
 
 [Google Search Engine](http://google.com)
 ![Doughnut](2untitled.png)
+**This is in bold.**
+_This is in itallics._
